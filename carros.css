@@ -134,6 +134,10 @@ img {
   li a {
     padding: 10px;
   }
+  .motor-img{
+    max-width: 250px;
+    margin:0 auto;
+  }
 
   .containder-tec-seg {
     max-width: 1000px;
